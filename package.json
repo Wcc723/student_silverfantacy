@@ -29,5 +29,8 @@
     "jquery": "^3.2.1",
     "lodash": "^4.17.4",
     "minimist": "^1.2.0"
+  },
+  "dependencies": {
+    "gulp-gh-pages": "^0.5.4"
   }
 }
